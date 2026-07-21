@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bader</h1>
-<h3 align="center">Frontend Developer | React & TypeScript Enthusiast</h3>
+<h3 align="center">Frontend Developer | React | Next & TypeScript Enthusiast</h3>
 
 <p align="center">
 Building fast, responsive, and scalable web applications with modern frontend technologies.
