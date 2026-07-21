@@ -95,8 +95,8 @@ Modern ecommerce frontend built with Next.js.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/bader-codes
-- LinkedIn: *(Add your profile)*
-- Portfolio: *(Add your portfolio link)*
+- LinkedIn: https://www.linkedin.com/in/bader-codes/
+- Portfolio: https://bader-s-portfolio.vercel.app/
 
 ---
 
