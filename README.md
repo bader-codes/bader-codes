@@ -224,7 +224,11 @@ const bader = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=footer&width=100%"
+    width="100%"
+    alt="Footer"
+  />
 </p>
 
 <p align="center">
