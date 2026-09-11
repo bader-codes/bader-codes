@@ -25,17 +25,29 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const bader = {
-  role: "Frontend Developer",
-  focus: ["React", "Next.js", "TypeScript"],
-  styling: ["Tailwind CSS", "Bootstrap"],
-  stateManagement: ["TanStack Query", "Redux"],
-  currentlyLearning: "Advanced React patterns & frontend architecture",
-  goal: "Build clean, scalable and maintainable applications",
-  openTo: "Frontend Developer opportunities"
-};
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind" />
+</p>
+
+<p align="center">
+  Frontend Developer focused on building modern, responsive and scalable web applications.
+</p>
+
+<p align="center">
+  ⚛️ React &nbsp; • &nbsp; 🔷 TypeScript &nbsp; • &nbsp; ▲ Next.js &nbsp; • &nbsp; 🎨 Tailwind CSS
+</p>
+
+<p align="center">
+  🚀 Currently improving my skills in advanced React patterns and frontend architecture.
+</p>
+
+<p align="center">
+  📚 Always learning better patterns, tools and development practices.
+</p>
+
+<p align="center">
+  🌍 Open to Frontend Developer opportunities.
+</p>
 
 * ⚛️ Passionate about building modern and responsive user interfaces.
 * 🧠 Focused on writing clean, maintainable and scalable frontend code.
