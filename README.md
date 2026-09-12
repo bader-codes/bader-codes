@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind" />
@@ -38,26 +38,26 @@
 </p>
 
 <p align="center">
-  🚀 Currently improving my skills in advanced React patterns and frontend architecture.
+  Currently improving my skills in advanced React patterns and frontend architecture.
 </p>
 
 <p align="center">
-  📚 Always learning better patterns, tools and development practices.
+  Always learning better patterns, tools and development practices.
 </p>
 
 <p align="center">
-  🌍 Open to Frontend Developer opportunities.
+  Open to Frontend Developer opportunities.
 </p>
 
-* ⚛️ Passionate about building modern and responsive user interfaces.
-* 🧠 Focused on writing clean, maintainable and scalable frontend code.
-* 🚀 Currently improving my React architecture and state management skills.
-* 📚 Constantly learning better patterns and development practices.
-* 🌍 Open to Frontend Developer opportunities.
+*  Passionate about building modern and responsive user interfaces.
+*  Focused on writing clean, maintainable and scalable frontend code.
+*  Currently improving my React architecture and state management skills.
+*  Constantly learning better patterns and development practices.
+*  Open to Frontend Developer opportunities.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -117,7 +117,7 @@
 
 <td width="50%">
 
-<h3 align="center">🧑‍💻 ContactHub</h3>
+<h3 align="center">ContactHub</h3>
 
 <p align="center">
   Responsive CRUD application for managing contacts.
@@ -135,7 +135,7 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">🛒 Ecommerce Store</h3>
+<h3 align="center">Ecommerce Store</h3>
 
 <p align="center">
   Modern ecommerce frontend built with Next.js, TypeScript and Tailwind CSS.
