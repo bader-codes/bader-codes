@@ -237,7 +237,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:276CF5&height=180&section=footer&width=100%"
+    src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:276CF5&height=180&section=footer&width=100%](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer&reversal=false&fontAlign=0&fontAlignY=0&descAlign=7&descAlignY=1)"
     width="100%"
     alt="Footer"
   />
